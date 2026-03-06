@@ -34,3 +34,4 @@ dist/
 
 # dependances
 node_modules/
+.vercel
